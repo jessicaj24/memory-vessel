@@ -3,8 +3,22 @@ background(#C1EFFF);
 noStroke();
 fill(#FAA93F);
 ellipse(300, 200, 170, 170);
+fill(250, 169, 63, 150);
+ellipse(300,200,220,220);
+fill(250,207,63,130);
+ellipse(300,200,270,270);
+fill(247,246,192,110);
+ellipse(300,200,320,320);
 fill(#86570F);
 rect(0, 200, 600, 200);
+fill(#744600);
+rect(0,235,600,20);
+rect(0,285,600,20);
+rect(0,335,600,20);
+rect(0,385,600,20);
+fill(58,103,44);
+ellipse(0,0,150,350);
+ellipse(600,0,150,350);
 
 // sunflower field
 for (int y = 220; y < 400; y += 50) {
