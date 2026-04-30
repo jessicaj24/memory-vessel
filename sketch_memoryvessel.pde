@@ -100,3 +100,27 @@ ellipse(200, 30, 5, 3);
 ellipse(300, 70, 5, 3);
 ellipse(400, 90, 5, 3);
 ellipse(500, 50, 5, 3);
+
+
+fill(255, 200, 0);
+ellipse(30, 110, 7, 3);
+ellipse(85, 130, 8, 4);
+ellipse(140, 100, 7, 3);
+ellipse(190, 145, 8, 4);
+ellipse(240, 120, 7, 3);
+ellipse(290, 105, 8, 4);
+ellipse(340, 140, 7, 3);
+ellipse(390, 115, 8, 4);
+ellipse(440, 135, 7, 3);
+ellipse(490, 105, 8, 4);
+ellipse(540, 125, 7, 3);
+ellipse(60, 170, 8, 4);
+ellipse(110, 155, 7, 3);
+ellipse(160, 180, 8, 4);
+ellipse(210, 160, 7, 3);
+ellipse(260, 185, 8, 4);
+ellipse(310, 165, 7, 3);
+ellipse(360, 190, 8, 4);
+ellipse(410, 155, 7, 3);
+ellipse(460, 175, 8, 4);
+ellipse(510, 150, 7, 3);
